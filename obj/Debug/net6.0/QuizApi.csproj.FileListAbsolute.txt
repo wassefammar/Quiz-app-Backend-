@@ -1,0 +1,164 @@
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\appsettings.Development.json
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\appsettings.json
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\QuizApi.exe
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\QuizApi.deps.json
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\QuizApi.runtimeconfig.json
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\QuizApi.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\QuizApi.pdb
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Azure.Core.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Azure.Identity.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Humanizer.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.CodeDom.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.Memory.Data.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.Text.Json.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.csproj.AssemblyReference.cache
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.AssemblyInfoInputs.cache
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.AssemblyInfo.cs
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.csproj.CoreCompileInputs.cache
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.MvcApplicationPartsAssemblyInfo.cs
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.MvcApplicationPartsAssemblyInfo.cache
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\scopedcss\bundle\QuizApi.styles.css
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.csproj.CopyComplete
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\refint\QuizApi.dll
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.pdb
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.genruntimeconfig.cache
+F:\React Projects\Quizz app ReactJs & ASP.net\QuizApi\obj\Debug\net6.0\ref\QuizApi.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\appsettings.Development.json
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\appsettings.json
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\QuizApi.exe
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\QuizApi.deps.json
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\QuizApi.runtimeconfig.json
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\QuizApi.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\QuizApi.pdb
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Azure.Core.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Azure.Identity.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Humanizer.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.CodeDom.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.Memory.Data.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.Text.Json.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.csproj.AssemblyReference.cache
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.AssemblyInfoInputs.cache
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.AssemblyInfo.cs
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.csproj.CoreCompileInputs.cache
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.MvcApplicationPartsAssemblyInfo.cs
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.MvcApplicationPartsAssemblyInfo.cache
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\scopedcss\bundle\QuizApi.styles.css
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.csproj.CopyComplete
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\refint\QuizApi.dll
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.pdb
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\QuizApi.genruntimeconfig.cache
+F:\React Projects\Quizz app ReactJs ASP.net\QuizApi\obj\Debug\net6.0\ref\QuizApi.dll
